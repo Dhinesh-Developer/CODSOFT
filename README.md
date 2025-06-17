@@ -1,4 +1,10 @@
-# Web Development Projects Portfolio
+# Web Development Projects 
+
+Portfolio Live Demo : https://dhinesh3369.neocities.org/CodSoft/Codsoft/portfolio/
+Landing page Live Demo : https://dhinesh3369.neocities.org/CodSoft/Codsoft/Landing%20page/
+Calculator Live Demo : https://dhinesh3369.neocities.org/CodSoft/Codsoft/Calculator/
+Job portal Live Demo: https://dhinesh3369.neocities.org/CodSoft/Codsoft/Job%20portal/
+Quiz App Live Demo : https://dhinesh3369.neocities.org/CodSoft/Codsoft/Quiz%20App/
 
 Three beginner-friendly web development projects showcasing HTML, CSS, JavaScript, Bootstrap, and Tailwind CSS skills.
 
@@ -6,7 +12,6 @@ Three beginner-friendly web development projects showcasing HTML, CSS, JavaScrip
 
 ### 1. Personal Portfolio Website
 
-![Portfolio Screenshot](https://i.imgur.com/JqkX9ZL.png)
 
 **Tech Stack**: 
 - HTML5
@@ -36,7 +41,6 @@ Three beginner-friendly web development projects showcasing HTML, CSS, JavaScrip
 
 ### 2. Netflix Clone Landing Page
 
-![Netflix Clone Screenshot](https://i.imgur.com/mQ8WYxV.png)
 
 **Tech Stack**: 
 - HTML5
@@ -66,7 +70,6 @@ Three beginner-friendly web development projects showcasing HTML, CSS, JavaScrip
 
 ### 3. Modern Calculator App
 
-![Calculator Screenshot](https://i.imgur.com/LpGqBzP.png)
 
 **Tech Stack**: 
 - HTML5
