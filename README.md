@@ -1,10 +1,15 @@
 # Web Development Projects 
 
 Portfolio Live Demo : https://dhinesh3369.neocities.org/CodSoft/Codsoft/portfolio/
+---
 Landing page Live Demo : https://dhinesh3369.neocities.org/CodSoft/Codsoft/Landing%20page/
+---
 Calculator Live Demo : https://dhinesh3369.neocities.org/CodSoft/Codsoft/Calculator/
+---
 Job portal Live Demo: https://dhinesh3369.neocities.org/CodSoft/Codsoft/Job%20portal/
+---
 Quiz App Live Demo : https://dhinesh3369.neocities.org/CodSoft/Codsoft/Quiz%20App/
+---
 
 Three beginner-friendly web development projects showcasing HTML, CSS, JavaScript, Bootstrap, and Tailwind CSS skills.
 
